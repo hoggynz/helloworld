@@ -1,5 +1,5 @@
 <?php
-echo '<h1>Hello Tom</h1></br>';
+echo '<h1>Hello Tom Tom</h1></br>';
 
 //$name=$_SERVER["COMPUTERNAME"];
 $name=$_SERVER["WEBSITE_INSTANCE_ID"];
